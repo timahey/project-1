@@ -1,4 +1,5 @@
 # Security Policy
+The file is safe. It doesn't change anything in your operating system.
 If your rights do not agree or are not understood by SECURITY.md then contact me by mail: timahey.petrov@gmail.com
 ## Supported Versions
 
