@@ -1,9 +1,11 @@
 # Security Policy
-
+If your rights do not agree or are not understood by SECURITY.md then contact me by mail: timahey.petrov@gmail.com
 ## Supported Versions
 
-| Version || Support |
-| All     || ✔️      |
+| 1. Version |
+| 1.2 All     |
+| 2. Support |
+| 2.1✔️ |
 
 
 ### Other
